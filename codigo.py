@@ -1,3 +1,4 @@
+##6.2 Realiza un código corto en Python que defina una función documentada correctamente con docstrings. El tema es "calcular el promedio de una lista de números".
 def calcular_promedio(lista_numeros):
     """
     Calcula el promedio de una lista de números.
